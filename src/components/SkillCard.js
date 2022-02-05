@@ -21,13 +21,13 @@ const styles = StyleSheet.create({
   buttonSkill: {
     backgroundColor: '#1C1C1C',
     borderRadius: 50,
-    padding: 15,
+    padding: 13,
     alignItems: 'center',
-    marginVertical: 10,
+    marginVertical: 7,
   },
   textSkill: {
     color: '#ADD8E6',
-    fontSize: 22,
+    fontSize: 18,
     fontWeight: 'bold'
   }
 })
