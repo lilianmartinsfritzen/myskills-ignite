@@ -5,9 +5,9 @@ import {
   StyleSheet,
   TextInput,
   Platform,
-  ScrollView,
   FlatList
 } from 'react-native'
+
 import { Button } from '../components/Button'
 import { SkillCard } from '../components/SkillCard'
 
@@ -18,6 +18,7 @@ export function Home() {
 
   function handleAddNewSkill() {
     setMySkills(oldState => [...oldState, newSkill])
+    setNewSkill('')
   }
 
   useEffect(() => {
@@ -50,6 +51,7 @@ export function Home() {
         placeholder="New skill"
         placeholderTextColor="#A9A9A9"
         onChangeText={setNewSkill}
+        value={newSkill}
       />
 
       <Button onPress={handleAddNewSkill} />
