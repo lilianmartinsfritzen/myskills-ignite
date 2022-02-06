@@ -33,10 +33,10 @@ export function Home() {
 
   useEffect(() => {
     const currentHour = new Date().getHours()
-    
-    if(currentHour < 12) {
+
+    if (currentHour < 12) {
       setGreeting('Good morning')
-    } else if(currentHour >=12 && currentHour <18) {
+    } else if (currentHour >= 12 && currentHour < 18) {
       setGreeting('Good afternoon')
     } else {
       setGreeting('Good evening')
@@ -64,7 +64,10 @@ export function Home() {
         value={newSkill}
       />
 
-      <Button onPress={handleAddNewSkill} />
+      <Button
+        onPress={handleAddNewSkill} 
+        title="Add"       
+      />
 
       <Text
         style={[styles.title, { marginVertical: 16 }]}
