@@ -1,5 +1,6 @@
 <p align="center">
   <a href="#CHAPTERI">CHAPTER I</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pre-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#execucao">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licenca">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +11,7 @@
 <a href="https://github.com/lilianmartinsfritzen">
   <img src="https://img.shields.io/static/v1?label=self-learning&message=LMF&color=49AA26&labelColor=000000" alt="Self Learning Lílian Martins Fritzen" />
 </a>
-<a href="https://github.com/lilianmartinsfritzen/orange-memory/blob/master/LICENSE">
+<a href="https://github.com/lilianmartinsfritzen/myskills-ignite/blob/main/LICENSE">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" />
 </a>
 </p>
@@ -19,7 +20,7 @@
 <br>
 <div align="center">
 
-[myskills.webm](https://user-images.githubusercontent.com/83084256/180616380-2f5128f2-60e4-4916-8272-25dfff04358a.webm)
+[myskills.webm](https://user-images.githubusercontent.com/83084256/180623309-3eb68406-9412-4429-95a7-c1ce712b5cbf.webm)
 
 </div>
 <br>
@@ -47,8 +48,7 @@
 
 <hr>
 
-<br>
-<h2 id="pré-requisitos">✔️ Pré requisitos</h2>
+<h2 id="pre-requisitos">✔️ Pré requisitos</h2>
 
 - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 - <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -71,9 +71,9 @@
 
 <br>
 <h3>Para simular os ambientes mobile você pode consultar as documentações abaixo:</h3>
-<p><a href="https://developer.android.com/studio/run/emulator?authuser=2">🗂 Emulador Android</a></p>
+<p><a href="https://developer.android.com/studio/run/emulator?authuser=2">📑 Emulador Android</a></p>
 
-<p><a href="https://developer.apple.com/documentation/xcode/running-your-app-in-the-simulator-or-on-a-device">🗂 Emulador IOS</a></p>
+<p><a href="https://developer.apple.com/documentation/xcode/running-your-app-in-the-simulator-or-on-a-device">📑 Emulador IOS</a></p>
 <hr>
 
 <br>
@@ -86,7 +86,7 @@
 - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <hr>
-<br>
+
 <h2 id="execucao">🕹 Execução</h2>
 
 ```bash
@@ -111,10 +111,10 @@ npx react-native run-ios && npm start
 ```
 
 <hr>
-<br>
+
 <h2 id="licenca">📃 Licença</h2>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lilianmartinsfritzen/orange-memory/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lilianmartinsfritzen/myskills-ignite/blob/main/LICENSE) para mais detalhes.
 
 <br>
 
