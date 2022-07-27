@@ -33,6 +33,11 @@
 <div align="justify">
 
 <h2> 📝 O que foi abordado no capítulo</h2>
+<br>
+
+> O primeiro capítulo trouxe o ecossistema React Native, iniciando um projeto com a sua própria CLI. Conceitos importantes como componentes, propriedades, estado, imutabilidade, hooks, e como funciona a estilização dentro desse mundo mobile. Além da implementação do Typescript, de forma simples, no projeto já codado.
+
+<br>
 
 - [x] Compreensão do ecossistema que envolve o desenvolvimento mobile com React Native.
 
